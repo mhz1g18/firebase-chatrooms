@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Firechat",
+  "name": "Chat App created with Firebase and React",
   "icons": [
     {
       "src": "favicon.ico",
