@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/firebase-chatrooms/static/css/main.70f55e77.chunk.css",
+    "main.css": "/firebase-chatrooms/static/css/main.522ffab7.chunk.css",
     "main.js": "/firebase-chatrooms/static/js/main.e1213df5.chunk.js",
     "main.js.map": "/firebase-chatrooms/static/js/main.e1213df5.chunk.js.map",
     "runtime-main.js": "/firebase-chatrooms/static/js/runtime-main.24d9a70f.js",
@@ -10,13 +10,13 @@
     "static/js/3.b9a87354.chunk.js": "/firebase-chatrooms/static/js/3.b9a87354.chunk.js",
     "static/js/3.b9a87354.chunk.js.map": "/firebase-chatrooms/static/js/3.b9a87354.chunk.js.map",
     "index.html": "/firebase-chatrooms/index.html",
-    "static/css/main.70f55e77.chunk.css.map": "/firebase-chatrooms/static/css/main.70f55e77.chunk.css.map",
+    "static/css/main.522ffab7.chunk.css.map": "/firebase-chatrooms/static/css/main.522ffab7.chunk.css.map",
     "static/js/2.da39f9d9.chunk.js.LICENSE.txt": "/firebase-chatrooms/static/js/2.da39f9d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24d9a70f.js",
     "static/js/2.da39f9d9.chunk.js",
-    "static/css/main.70f55e77.chunk.css",
+    "static/css/main.522ffab7.chunk.css",
     "static/js/main.e1213df5.chunk.js"
   ]
 }
