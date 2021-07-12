@@ -1,4 +1,4 @@
-# SortViz
+# Firechat
 
 A web-app for creating and joining chatrooms
 
